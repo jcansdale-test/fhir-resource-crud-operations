@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mulesoft-fhir</groupId>
-  <version>1.0.1</version>
+  <version>1.0.0</version>
   <artifactId>fhir-resource-crud-operations</artifactId>
   <packaging>mule-application</packaging>
 
@@ -19,7 +19,7 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id>
+      <id>github-crud</id>
       <name>GitHub Mulesoft-FHIR Apache Maven Packages</name>
       <url>https://maven.pkg.github.com/mulesoft-fhir/fhir-resource-crud-operations</url>
     </repository>
@@ -53,7 +53,7 @@
               <groupId>${project.groupId}</groupId>
               <artifactId>${project.artifactId}</artifactId>
               <version>${project.version}</version>
-              <repositoryId>github</repositoryId>
+              <repositoryId>github-crud</repositoryId>
               <packaging>jar</packaging>
               <pomFile>pom.xml</pomFile>
             </configuration>
