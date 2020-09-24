@@ -1,4 +1,4 @@
-## 1.0.0-SNAPSHOT - ![Deploy Package](https://github.com/mulesoft-fhir/fhir-resource-crud-operations/workflows/Deploy%20Package/badge.svg?branch=1.0.0-SNAPSHOT)
+## 1-SNAPSHOT - ![Deploy Package](https://github.com/mulesoft-fhir/fhir-resource-crud-operations/workflows/Deploy%20Package/badge.svg?branch=1-SNAPSHOT)
 
 # FHIR - Generic Crud Operations
 
