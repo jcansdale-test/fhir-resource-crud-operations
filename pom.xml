@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mulesoft-fhir</groupId>
-  <version>1.0.0-beta2</version>
+  <version>1.0.0-alpha</version>
   <artifactId>fhir-resource-crud-operations</artifactId>
   <packaging>mule-application</packaging>
 
